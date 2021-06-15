@@ -1,6 +1,6 @@
 ### 使用原生 JS 写的案例
 
-- [ ] Drag
+- [x] Drag
 - [ ] Tree Component
 - [ ] Modal Plugin
 - [ ] 3D Carousel
