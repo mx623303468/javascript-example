@@ -1,7 +1,7 @@
 # javascript-example
 Examples written in native JS
 
-- [ ] Drag
+- [x] Drag
 - [ ] Tree Component
 - [ ] Modal Plugin
 - [ ] 3D Carousel
